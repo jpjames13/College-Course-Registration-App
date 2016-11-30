@@ -1,0 +1,12 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\bin\Debug\CIS345 Final Project.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345_Final_Project.Courses.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345_Final_Project.FinalSchedule.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345_Final_Project.MenuForm.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345_Final_Project.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345_Final_Project.EditStudentInfo.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345 Final Project.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\bin\Debug\CIS345 Final Project.exe
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\bin\Debug\CIS345 Final Project.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345 Final Project.exe
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345 Final Project.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\CIS345 Final Project\CIS345 Final Project\obj\Debug\CIS345 Final Project.csprojResolveAssemblyReference.cache
